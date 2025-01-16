@@ -1,0 +1,10 @@
+{
+    "name": "expense-reports",
+    "version": "0.0.1",
+    "description": "This is the extension to record expenses such as fuel,toll & parking ",
+    "repository": "https://github.com/acsdeveloper/fleetbase-expense-report.git",
+    "license": "AGPL-3.0-or-later",
+    "author": "Acs <developer@agilecyber.com>",
+    "engine": "package.json",
+    "api": "composer.json"
+}
